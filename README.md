@@ -2,6 +2,8 @@
 
 A Node.js service to decode encrypted WhatsApp media files.
 
+Ps: You don't need this if you are running the Official Meta Business API for Whatsapp.
+
 ## Features
 
 - Decodes encrypted WhatsApp media files (audio, video, images, documents)
